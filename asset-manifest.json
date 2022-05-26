@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Good-Skills-Delivery-Frontend/static/css/main.44f085fb.css",
+    "main.js": "/Good-Skills-Delivery-Frontend/static/js/main.57ba6123.js",
+    "static/js/787.d37b0707.chunk.js": "/Good-Skills-Delivery-Frontend/static/js/787.d37b0707.chunk.js",
+    "index.html": "/Good-Skills-Delivery-Frontend/index.html",
+    "main.44f085fb.css.map": "/Good-Skills-Delivery-Frontend/static/css/main.44f085fb.css.map",
+    "main.57ba6123.js.map": "/Good-Skills-Delivery-Frontend/static/js/main.57ba6123.js.map",
+    "787.d37b0707.chunk.js.map": "/Good-Skills-Delivery-Frontend/static/js/787.d37b0707.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f085fb.css",
+    "static/js/main.57ba6123.js"
+  ]
+}
